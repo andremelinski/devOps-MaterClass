@@ -1,0 +1,8 @@
+Job{
+    • Any runnable task that is controlled by Jenkins;
+    • Types{
+        - FreeStyle Project: Build Type for this project is generally execute a shell or bash commands;
+        - Pipeline: These type of projects used to a called Workflow. Normally written in DSL syntax;
+        - Multi COnfiguration Project: Tested on Multiple Environments, and require specific configuration;
+    } 
+}
